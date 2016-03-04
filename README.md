@@ -1,1 +1,1 @@
-# spring-netflix-cloud
+# spring-netflix-cloud-aggregator
