@@ -1,2 +1,1 @@
-# spring-boot-cloud-aggregator
-Aggregator project
+# spring-netflix-cloud
