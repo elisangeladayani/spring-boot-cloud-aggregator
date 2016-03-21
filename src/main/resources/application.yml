@@ -5,4 +5,4 @@ spring:
 eureka:
   client:
     serviceUrl:
-      defaultZone: http://eureka.dokku.dev.freedom.nslabs.com.br/eureka
+      defaultZone: http://eureka.dokku.dev.freedom.nslabs.com.br/
